@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "events": [
+    {
+      "id": "walk",
+      "label": "Walk",
+      "shortcut": "W",
+      "color": "#24C6A1",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "run",
+      "label": "Run",
+      "shortcut": "R",
+      "color": "#6C7CFF",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "jump",
+      "label": "Jump",
+      "shortcut": "J",
+      "color": "#F4B74A",
+      "order": 3,
+      "enabled": true
+    }
+  ]
+}

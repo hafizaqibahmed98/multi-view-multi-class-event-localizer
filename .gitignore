@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Next.js output
+.next/
+out/
+
+# Production and test output
+dist/
+build/
+coverage/
+
+# Runtime study data and persistence artifacts
+**/annotations.json
+**/.*.json.*.tmp
+*.xlsx
+~$*.xlsx
+*.mp4
+*.mov
+*.webm
+*.ogv
+*.ogg
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config/events.json
+
+# Logs and package-manager state
+*.log
+.pnpm-store/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.idea/
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Local document-inspection artifacts
+.tmp-docx/
+.tmp-spec-render/
