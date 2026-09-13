@@ -4,11 +4,12 @@ A desktop-first research annotation application for localizing multiple temporal
 
 **Status:** v1 release candidate. Configuration, manifest discovery, synchronized playback, annotation editing, atomic persistence, sequential navigation, resume, and completion are implemented.
 
-## Demo
+## 🎥 Demo Video
 
-> 🎥 **Demo video**
->
-> <video src="docs/demoVideo/demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/37272ccd-777e-42c0-b3e4-fb62852515c3
+
+
+
 
 <!-- ## Interface
 
