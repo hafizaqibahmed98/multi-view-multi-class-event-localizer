@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "events": [
+    {
+      "id": "walk",
+      "label": "Walking",
+      "shortcut": "W",
+      "color": "#24C6A1",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "placingBox",
+      "label": "Placing Box",
+      "shortcut": "P",
+      "color": "#6C7CFF",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "lightOn",
+      "label": "Light On",
+      "shortcut": "L",
+      "color": "#F4B74A",
+      "order": 3,
+      "enabled": true
+    }
+  ]
+}

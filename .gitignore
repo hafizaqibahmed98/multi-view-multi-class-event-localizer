@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Next.js output
+.next/
+out/
+
+# Production and test output
+dist/
+build/
+coverage/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs and package-manager state
+*.log
+.pnpm-store/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.idea/
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Local document-inspection artifacts
+.tmp-docx/
+.tmp-spec-render/
